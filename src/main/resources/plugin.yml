@@ -1,0 +1,12 @@
+name: DojoClan
+main: net.lucxtv.dojoclan.DojoClan
+version: 1.0
+author: LucxTV
+description: Clan System for PvPDojo.com Dev Apply
+commands:
+  clanmenu:
+    description: Open the clan menu
+    usage: /clanmenu
+  clan:
+    description: Clan Command List.
+    usage: /clan
